@@ -1,5 +1,11 @@
 # Tip Eat-n-split React App Challenge 🍽️
 
+
+## Demo
+
+https://eat-n-split-react.vercel.app/
+
+
 ## Features
 
 - useState and state management
