@@ -1,4 +1,4 @@
-# Tip Eat-n-split React App Challenge 🧮
+# Tip Eat-n-split React App Challenge 🍽️
 
 ## Features
 
